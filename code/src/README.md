@@ -57,6 +57,7 @@ Output:
 The app will generate and display a reconciled dataset with an additional Status and Anomaly Reason column. You can also download this reconciled dataset in CSV format.
 
 Directory Structure:
+```
 data-reconciliation-anomaly-detection/
 │
 ├── app.py                    # Streamlit app script
@@ -65,6 +66,7 @@ data-reconciliation-anomaly-detection/
 │   └── reconciliation.py     # Function to reconcile data and detect anomalies
 ├── requirements.txt          # List of dependencies
 └── README.txt                # This README file
+```                # This README file
 
 License:    
 This project is licensed under the MIT License - see the LICENSE file for details.
