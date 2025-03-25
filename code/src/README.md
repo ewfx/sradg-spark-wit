@@ -67,9 +67,6 @@ src/
 │── utils/
 │   ├── data_loader.py       # Load & Preprocess CSVs
 │   ├── reconciliation.py    # Reconciliation Logic
-│── sample_data/
-│   ├── historical_data.csv  # Sample Historical Data
-│   ├── real_time_data.csv   # Sample Real-Time Data
 │── output/
 │   ├── reconciled_data.csv  # Output File
 └── README.md                # Documentation
