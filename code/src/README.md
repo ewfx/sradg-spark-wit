@@ -25,6 +25,7 @@ This Streamlit app performs data reconciliation and anomaly detection on histori
 - python -m venv venv
 - Inside the newly created directory venv, clone the github repository and checkout the main branch
   ```shell
+  cd sradg-spark-wit/code/src
   source bin/activate 
   ```
 - Install all the required python modules
