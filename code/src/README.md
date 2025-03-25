@@ -58,14 +58,21 @@ The app will generate and display a reconciled dataset with an additional Status
 
 Directory Structure:
 ```
-data-reconciliation-anomaly-detection/
-│
-├── app.py                    # Streamlit app script
-├── utils/                    # Utility functions folder
-│   ├── data_loader.py        # Function to load data
-│   └── reconciliation.py     # Function to reconcile data and detect anomalies
-├── requirements.txt          # List of dependencies
-└── README.txt                # This README file
+src/
+│── app.py                  # Main Streamlit App
+│── requirements.txt         # Dependencies
+│── models/
+│   ├── trend_analyzer.py    # Trend Analysis & Baseline Identification
+│   ├── anomaly_detector.py  # AI-based Anomaly Detection
+│── utils/
+│   ├── data_loader.py       # Load & Preprocess CSVs
+│   ├── reconciliation.py    # Reconciliation Logic
+│── sample_data/
+│   ├── historical_data.csv  # Sample Historical Data
+│   ├── real_time_data.csv   # Sample Real-Time Data
+│── output/
+│   ├── reconciled_data.csv  # Output File
+└── README.md                # Documentation
 ```
 
 License:    
