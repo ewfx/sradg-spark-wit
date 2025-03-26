@@ -19,8 +19,6 @@ The implemented project will help in finding anomaly by leveraging historical da
 ## 🎥 Demo
 Checked-in the documents and screenshot under demo folder,please refer the same.
 
-![Screenshot 1](link-to-image)
-
 ## 💡 Inspiration
 This challenge involved around data sets and we were intrested in exploring usage of AI in data space, hence picked this challenge.
 
