@@ -1,3 +1,3 @@
-Replace this file with a document that describes the architecture and design of your solution architecture. This may include
-    - An architecture drawing exported into a png/jpeg format image
-    - A document in pdf or md format that describes your solution
+
+    - Please refer An architecture drawing exported into a png image present here for architecture flow diagram
+    - PDF describing solution we have checked-in at https://github.com/ewfx/sradg-spark-wit/tree/main/artifacts/demo
