@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 Smarter Reconciliation and Anomaly Detection using Gen AI
 
 ## 📌 Table of Contents
 - [Introduction](#introduction)
@@ -14,47 +14,36 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+### Data Reconciliation & Anomaly Detection
+This Streamlit app performs data reconciliation and anomaly detection on historical and real-time data. The app allows users to upload CSV files containing historical and real-time data, processes them based on user input, and provides a reconciled dataset along with anomaly detection results.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
-
-![Screenshot 1](link-to-image)
+We have checked-in the documents and screenshot under demo folder,please refer the same.
+https://github.com/ewfx/sradg-spark-wit/tree/develop/artifacts/demo
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+This challenge involved around data sets and we were intrested in exploring usage of AI in data space, hence picked this challenge.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Upload historical and real-time data.
+Input composite keys, value keys, and date/time fields.
+Detect anomalies using the Isolation Forest algorithm.
+View and download the reconciled dataset.
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We have checked-in the details under demo folder, please refer the same.
+https://github.com/ewfx/sradg-spark-wit/tree/develop/artifacts/demo
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Being few team members new to AI space, we learned in the process about different AI modules and tried to deliver the challenge.
 
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+Please refer README.md file under code folder.
+https://github.com/ewfx/sradg-spark-wit/blob/develop/code/README.md
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+Please refer README.md file under code folder. 
+https://github.com/ewfx/sradg-spark-wit/blob/develop/code/README.md
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+SparkWit
