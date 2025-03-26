@@ -14,47 +14,30 @@
 ---
 
 ## 🎯 Introduction
-A brief overview of your project and its purpose. Mention which problem statement are your attempting to solve. Keep it concise and engaging.
+The implemented project will help in finding anomaly by leveraging historical data to indentify patterns, trends and expected ranges.
 
 ## 🎥 Demo
-🔗 [Live Demo](#) (if applicable)  
-📹 [Video Demo](#) (if applicable)  
-🖼️ Screenshots:
+Checked-in the documents and screenshot under demo folder,please refer the same.
 
 ![Screenshot 1](link-to-image)
 
 ## 💡 Inspiration
-What inspired you to create this project? Describe the problem you're solving.
+This challenge involved around data sets and we were intrested in exploring usage if AI in data space, hence picked this challenge.
 
 ## ⚙️ What It Does
-Explain the key features and functionalities of your project.
+Project will help in finding anomaly by leveraging historical data
 
 ## 🛠️ How We Built It
-Briefly outline the technologies, frameworks, and tools used in development.
+We have checked-in the details under demo folder, please refer the same.
 
 ## 🚧 Challenges We Faced
-Describe the major technical or non-technical challenges your team encountered.
+Being few team members new to AI space, we learned in the process about different AI modules and tried to deliver the challenge.
 
 ## 🏃 How to Run
-1. Clone the repository  
-   ```sh
-   git clone https://github.com/your-repo.git
-   ```
-2. Install dependencies  
-   ```sh
-   npm install  # or pip install -r requirements.txt (for Python)
-   ```
-3. Run the project  
-   ```sh
-   npm start  # or python app.py
-   ```
+Please refer README.md file under code folder.
 
 ## 🏗️ Tech Stack
-- 🔹 Frontend: React / Vue / Angular
-- 🔹 Backend: Node.js / FastAPI / Django
-- 🔹 Database: PostgreSQL / Firebase
-- 🔹 Other: OpenAI API / Twilio / Stripe
+Please refer README.md file under code folder.
 
 ## 👥 Team
-- **Your Name** - [GitHub](#) | [LinkedIn](#)
-- **Teammate 2** - [GitHub](#) | [LinkedIn](#)
+SparkWit
