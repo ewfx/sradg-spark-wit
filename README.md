@@ -14,28 +14,36 @@
 ---
 
 ## 🎯 Introduction
-The implemented project will help in finding anomaly by leveraging historical data to indentify patterns, trends and expected ranges.
+### Data Reconciliation & Anomaly Detection
+This Streamlit app performs data reconciliation and anomaly detection on historical and real-time data. The app allows users to upload CSV files containing historical and real-time data, processes them based on user input, and provides a reconciled dataset along with anomaly detection results.
 
 ## 🎥 Demo
-Checked-in the documents and screenshot under demo folder,please refer the same.
+We have checked-in the documents and screenshot under demo folder,please refer the same.
+https://github.com/ewfx/sradg-spark-wit/tree/develop/artifacts/demo
 
 ## 💡 Inspiration
 This challenge involved around data sets and we were intrested in exploring usage of AI in data space, hence picked this challenge.
 
 ## ⚙️ What It Does
-Project will help in finding anomaly by leveraging historical data.
+Upload historical and real-time data.
+Input composite keys, value keys, and date/time fields.
+Detect anomalies using the Isolation Forest algorithm.
+View and download the reconciled dataset.
 
 ## 🛠️ How We Built It
 We have checked-in the details under demo folder, please refer the same.
+https://github.com/ewfx/sradg-spark-wit/tree/develop/artifacts/demo
 
 ## 🚧 Challenges We Faced
 Being few team members new to AI space, we learned in the process about different AI modules and tried to deliver the challenge.
 
 ## 🏃 How to Run
 Please refer README.md file under code folder.
+https://github.com/ewfx/sradg-spark-wit/blob/develop/code/README.md
 
 ## 🏗️ Tech Stack
-Please refer README.md file under code folder.
+Please refer README.md file under code folder. 
+https://github.com/ewfx/sradg-spark-wit/blob/develop/code/README.md
 
 ## 👥 Team
 SparkWit
